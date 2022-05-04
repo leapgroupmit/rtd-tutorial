@@ -5,6 +5,7 @@ Usage
 
 Installation
 ------------
+Lumache is simple to access.
 
 To use Lumache, first install it using pip:
 
