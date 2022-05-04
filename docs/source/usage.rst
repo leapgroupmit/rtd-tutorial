@@ -5,8 +5,9 @@ Usage
 
 Installation
 ------------
+Lumache is simple to access.
 
-To use Lumache, first install it using pip:
+To use Lumache, **first install it using pip:**
 
 .. code-block:: console
 
